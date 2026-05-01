@@ -1,5 +1,5 @@
 import { MessageCircle, MapPin, PackageCheck } from "lucide-react";
-import logo from "../assets/logo.jpeg";
+import logo from "../assets/logo.png";
 
 export function Footer() {
   return (
